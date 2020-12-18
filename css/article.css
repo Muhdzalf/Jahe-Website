@@ -1,20 +1,24 @@
 .kolom{
     padding-top:50px;
     padding-bottom:50px;
-    width: 100%;
+    box-sizing: border-box;
 }
 
 .secondary{
     background:  rgba(205, 169, 133, 0.25);
 }
 
-.home-article{
+.content{
     background:#F1D6BC;
+    margin: auto;
 }
 
-.isi{
-    width: 80%;
-    height: 500px;
+.container{
+    width: 100%;
     margin: auto;
     border: 2px solid black;
+}
+
+.img-fluid{
+    border-radius: 20px;
 }
