@@ -22,3 +22,10 @@
 .img-fluid{
     border-radius: 20px;
 }
+
+.teams{
+    width : 150px;
+    height: 150px;
+    border-radius: 75px;
+    background: url('img/team/dimas.jpg');
+}
