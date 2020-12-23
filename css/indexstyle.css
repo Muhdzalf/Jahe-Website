@@ -46,6 +46,11 @@ body{
     font-family: 'Kanit', sans-serif;
  }
 
+ hr{
+     width: 40%;
+     text-align: center;
+ }
+
  .header{
      background:  linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../img/jaheHeader.jpg");
      background-size: cover;
@@ -65,5 +70,27 @@ body{
     padding-top: 185px;
     text-align: center;
     color: white;
+}
+
+.tentangkami{
+    position: absolute;
+    width: 1573px;
+    height: 374px;
+    left: -359px;
+    top: 2572px;
+
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 250px;
+    line-height: 374px;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    font-family: 'Kanit', sans-serif;
+}
+
+footer{
+    background: #F1D6BC;
 }
 

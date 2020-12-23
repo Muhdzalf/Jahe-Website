@@ -16,9 +16,40 @@
 .container{
     width: 100%;
     margin: auto;
-    border: 2px solid black;
 }
 
 .img-fluid{
     border-radius: 20px;
+}
+
+.teams{
+    width : 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+.content-center{
+    margin-top: 30px;
+}
+
+#foto{
+   width: 200px;
+   height: 200px; 
+}
+
+#foto-olahan{
+    width: 75%;
+    height: 75%;
+    padding: 0px auto;
+}
+
+.btn-primary.custom-btn{
+    background-color:  #418250;
+    color: white;
+    border: none;
+}
+
+.btn-primary.custom-btn:hover{
+    background-color: #418250;
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.644),0 17px 50px 0 rgba(255, 254, 254, 0.514);
 }
