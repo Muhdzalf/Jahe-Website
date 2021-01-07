@@ -57,3 +57,7 @@
 .btn-primary{
     background-color: #418250;
 }
+
+.media-body a:hover{
+    text-decoration: none;
+}
